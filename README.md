@@ -9,6 +9,7 @@ A Single place to store all the content which I found useful
   - [https://ariera.github.io/2017/03/01/using-postgres-uuids-with-laravel.html](https://ariera.github.io/2017/03/01/using-postgres-uuids-with-laravel.html)
   - [https://medium.freecodecamp.org/straightforward-code-splitting-with-react-and-webpack-4b94c28f6c3f?fbclid=IwAR1xJW9e2jMPB6q3QPy2-sGb9VVxUgJT05vLxJvMiRFoAV1Qoay3f91YFAw](https://medium.freecodecamp.org/straightforward-code-splitting-with-react-and-webpack-4b94c28f6c3f?fbclid=IwAR1xJW9e2jMPB6q3QPy2-sGb9VVxUgJT05vLxJvMiRFoAV1Qoay3f91YFAw)
   - [https://medium.freecodecamp.org/learn-linux-vim-basic-features-19134461ab85](https://medium.freecodecamp.org/learn-linux-vim-basic-features-19134461ab85)
+  - [https://medium.com/@alexlafroscia/writing-js-in-vim-4c971a95fd49](https://medium.com/@alexlafroscia/writing-js-in-vim-4c971a95fd49)
 - Boilerplate Code
   - [https://github.com/fueled/django-init](https://github.com/fueled/django-init)
 - Shell Scripts
