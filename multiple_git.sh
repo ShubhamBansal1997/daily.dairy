@@ -65,3 +65,4 @@ then
   echo "Setting up Git for freelance usage";
   SetForFreelance
 fi
+
