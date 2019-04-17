@@ -11,6 +11,8 @@ A Single place to store all the content which I found useful
   - [https://medium.freecodecamp.org/learn-linux-vim-basic-features-19134461ab85](https://medium.freecodecamp.org/learn-linux-vim-basic-features-19134461ab85)
   - [https://medium.com/@alexlafroscia/writing-js-in-vim-4c971a95fd49](https://medium.com/@alexlafroscia/writing-js-in-vim-4c971a95fd49)
   - [https://www.peterbe.com/plog/from-postgres-to-json-strings](https://www.peterbe.com/plog/from-postgres-to-json-strings)
+  - [https://oncletom.io/2016/travis-ssh-deploy/](https://oncletom.io/2016/travis-ssh-deploy/)
+  - [https://blog.jacobemerick.com/web-development/continuous-deployment-with-travis-ci-and-digital-ocean/](https://blog.jacobemerick.com/web-development/continuous-deployment-with-travis-ci-and-digital-ocean/)
 - Boilerplate Code
   - [https://github.com/fueled/django-init](https://github.com/fueled/django-init)
 - Shell Scripts
