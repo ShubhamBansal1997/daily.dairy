@@ -15,6 +15,7 @@ A Single place to store all the content which I found useful
   - [https://blog.jacobemerick.com/web-development/continuous-deployment-with-travis-ci-and-digital-ocean/](https://blog.jacobemerick.com/web-development/continuous-deployment-with-travis-ci-and-digital-ocean/)
 - Boilerplate Code
   - [https://github.com/fueled/django-init](https://github.com/fueled/django-init)
+  - [https://axios.nuxtjs.org/extend](https://axios.nuxtjs.org/extend)
 - Shell Scripts
   - [https://github.com/ShubhamBansal1997/daily.dairy/blob/master/multiple_git.sh](https://github.com/ShubhamBansal1997/daily.dairy/blob/master/multiple_git.sh)
   - [https://github.com/vinitkumar/.vim](https://github.com/vinitkumar/.vim)
