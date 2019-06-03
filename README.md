@@ -19,3 +19,4 @@ A Single place to store all the content which I found useful
 - Shell Scripts
   - [https://github.com/ShubhamBansal1997/daily.dairy/blob/master/multiple_git.sh](https://github.com/ShubhamBansal1997/daily.dairy/blob/master/multiple_git.sh)
   - [https://github.com/vinitkumar/.vim](https://github.com/vinitkumar/.vim)
+  - [https://dev.to/javinpaul/top-20-string-coding-problems-from-programming-job-interviews-493m](https://dev.to/javinpaul/top-20-string-coding-problems-from-programming-job-interviews-493m)
