@@ -13,6 +13,7 @@ A Single place to store all the content which I found useful
   - [https://www.peterbe.com/plog/from-postgres-to-json-strings](https://www.peterbe.com/plog/from-postgres-to-json-strings)
   - [https://oncletom.io/2016/travis-ssh-deploy/](https://oncletom.io/2016/travis-ssh-deploy/)
   - [https://blog.jacobemerick.com/web-development/continuous-deployment-with-travis-ci-and-digital-ocean/](https://blog.jacobemerick.com/web-development/continuous-deployment-with-travis-ci-and-digital-ocean/)
+  - [https://medium.com/@panuinth/ci-cd-pipeline-with-google-kubernetes-engine-e776b774fc3f](https://medium.com/@panuinth/ci-cd-pipeline-with-google-kubernetes-engine-e776b774fc3f)
 - Boilerplate Code
   - [https://github.com/fueled/django-init](https://github.com/fueled/django-init)
   - [https://axios.nuxtjs.org/extend](https://axios.nuxtjs.org/extend)
